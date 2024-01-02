@@ -1,3 +1,3 @@
 # chrome-extension-hotkey-killer
 
-Disable Ctrl-g for Google sheets.
+Disable Ctrl-g for Google Sheets.
